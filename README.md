@@ -79,10 +79,3 @@ Dark Mode: Class-based toggle (dark: utilities from Tailwind)
 
 
 
-Enhance animations with Framer Motion
-
-Extend with a backend (Node/Express, Next.js, or Headless CMS) if needed
-
-📄 License
-
-This project is MIT Licensed — free to use, modify, and share                                                                                                        
