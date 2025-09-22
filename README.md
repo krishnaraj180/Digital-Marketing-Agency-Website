@@ -3,7 +3,7 @@ Digital Marketing Agency Website — React + TailwindCSS + shadcn/ui:
 A UI-only 2-page digital marketing agency website built with React.js (React Router), TailwindCSS, and shadcn/ui.
 This project is frontend-only (no backend, no real data) and focuses on responsive design, dark mode, smooth interactions, and reusable components.
 
-✨Features:
+Features:
 
 2 Pages
 
@@ -19,7 +19,7 @@ Responsiveness: Works across desktop, tablet, and mobile
 Consistent design system: Typography, spacing, and color scheme
 Shadcn/ui components used: Card, Button.
 
-🛠️ Tech Stack:
+ Tech Stack:
 
 React
  (React Router for navigation)
@@ -30,7 +30,7 @@ TailwindCSS
 shadcn/ui
  (prebuilt UI components)
 
-📂 Project Structure:
+ Project Structure:
 src/
 ├─ main.jsx
 ├─ App.jsx
@@ -70,7 +70,7 @@ Build for production:
 
   npm run build
 
-🎨 Design Guidelines:
+Design Guidelines:
 
 Color Scheme: Blue primary + white background + gradient accents
 Typography: Google Font – Inter (Headings & Body)
